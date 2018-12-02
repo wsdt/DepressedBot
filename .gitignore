@@ -1,7 +1,12 @@
+# sensitive content
+/secrets/secrets.py
+# db.sqlite3 PUSH DATABASE AS TRAINED
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+/.idea/
 
 # C extensions
 *.so
@@ -54,7 +59,8 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
-db.sqlite3
+db.sqlite3-shm
+db.sqlite3-wal
 
 # Flask stuff:
 instance/

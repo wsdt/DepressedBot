@@ -1,0 +1,9 @@
+
+
+# Sensitive data (do not push)
+TWITTER = {
+    "CONSUMER_KEY": "YOUR_KEY_HERE",
+    "CONSUMER_SECRET": "YOUR_KEY_HERE",
+    "ACCESS_TOKEN": "YOUR_KEY_HERE",
+    "ACCESS_TOKEN_SECRET": "YOUR_KEY_HERE"
+}
